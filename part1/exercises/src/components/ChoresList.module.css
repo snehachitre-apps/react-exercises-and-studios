@@ -1,7 +1,24 @@
 .choresText {
-   color: black;
+   
+   background-repeat: no-repeat;
+   color: brown;
+   font-family: cursive;
+   font-size: larger;
+   text-align: left;
+   font-style: italic;
 }
 
 .choresHeading {
-   color: black;
+   color: darkred;
+   font-family: cursive;
+   font-size: larger;
+   text-align: left;
+   text-decoration: underline;
+}
+
+.background{
+
+   background-image: url("https://media.tenor.com/ydXJPz01t-IAAAAC/laundry-housework.gif");
+   background-repeat: no-repeat;
+   height: 50vh;
 }

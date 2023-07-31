@@ -1,0 +1,21 @@
+.hobbiesText {
+   color: orchid;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: larger;
+   text-align: left;
+   font-style:normal;
+}
+
+.hobbiesHeading {
+   color: orangered;
+   font-family:'Courier New', Courier, monospace;
+   font-size: larger;
+   text-align: left;
+   text-decoration:wavy;
+}
+
+.display{
+   border: 5px;
+   border-style: dashed;
+   border-color: darkcyan;
+}

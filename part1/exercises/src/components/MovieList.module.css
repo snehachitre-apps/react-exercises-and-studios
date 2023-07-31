@@ -1,7 +1,16 @@
 .movieText {
-   color: black;
+   color: blue;
+   text-align: left;
+   font-size: 25px;
 }
 
 .movieHeading {
-   color: black;
+   color: blueviolet;
+   text-align: left;
+   font-size:x-large;
+}
+.display{
+   border: 5px;
+   border-style: dashed;
+   border-color: darkcyan;
 }
