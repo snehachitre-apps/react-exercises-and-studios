@@ -8,3 +8,6 @@
    border-color: darkcyan;
    
 }
+.booksDisplay{
+   justify-content: space-evenly;
+}
