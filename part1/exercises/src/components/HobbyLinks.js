@@ -3,7 +3,7 @@ import classes from './HobbyLinks.module.css';
 export default function HobbyLinks () {
    let hobbyLinks = ["https://www.webmd.com/fitness-exercise/what-to-know-about-taekwondo", "https://askc.org/index.php/observatories/powell-observatory", "https://www.thesprucecrafts.com/acrylic-painting-tips-for-beginners-2578746"]
    return (
-      <div className={classes.display}>s
+      <div className={classes.display}>
          <h3 className = {classes.hobbiesHeading}> Some of my hobbies.</h3>
       
          <ul>
