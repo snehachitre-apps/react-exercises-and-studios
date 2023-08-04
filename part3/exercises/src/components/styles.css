@@ -1,0 +1,21 @@
+.factList{
+    text-align: center;
+    list-style-position: inside;
+    list-style-type:none;
+    font-size: larger;
+
+}
+.projectItemList{
+    font-family: cursive;
+    font-size: larger;
+    color: brown;
+    list-style-type: none;
+}
+.img{
+
+    height: 500px;
+}
+
+h2{
+    color:blueviolet;
+}

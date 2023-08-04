@@ -1,0 +1,34 @@
+{
+    "projects":[
+        {
+            "description": "Composite Image of Total Solar Eclipse, 2017",
+            "place": "Madras,OR.",
+            "photoUrl": "./images/photo1.jpg",
+            "alt": "Total solar Eclipse,2017"
+        },
+        {
+            "description": "Landscape Photo of a peaceful beach",
+            "place": "Goa,India.",
+            "photoUrl": "./images/photo2.jpg",
+            "alt": "Peaceful Goa."
+        },
+        {
+            "description": "Endangered Monarch Butterfly",
+            "place": "Overland Park,KS.",
+            "photoUrl": "./images/photo3.png",
+            "alt": "Endangered Monarch Butterfly"
+        },
+        {
+            "description": "Beautiful Evening by the Lake",
+            "place": "Memphis,TN.",
+            "photoUrl": "./images/photo4.png",
+            "alt": "Sunset at the Lake"
+        },
+        {
+            "description": "Snoqualmie Falls, Seattle",
+            "place": "Snoqualmie,Seattle.",
+            "photoUrl": "./images/photo5.png",
+            "alt": "Snoqualmie Falls, Seattle"
+        }
+    ]
+}
