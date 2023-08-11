@@ -1,7 +1,7 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://thesuburbansoapbox.com/about/";;
+   let authorPhoto = "https://thesuburbansoapbox.com/wp-content/uploads/2021/02/nFMviV_w-e1614300721197-scaled-340x485.jpeg";;
+   let authorName = "Kellie";
 
    return (
       <div>
@@ -15,7 +15,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["heavy cream", "vanilla beans", "sugar", "egg yolks", "superfine sugar"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -34,8 +34,8 @@ const RecipeDescription = () => {
    return (
       <div> 
          <div>
-            <h1></h1>
-            <p></p>
+         <h1>The Best Creme Brûlée</h1>
+         <p>This Vanilla Creme Brûlée recipe is easy to make with cream, eggs, sugar and vanilla….and the burnt sugar topping is so fun to make. </p>
          </div>
          <div className="recipePhotoBlock">
             <RecipeIngredients />
@@ -47,8 +47,8 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
-   );
+      <img src="https://thesuburbansoapbox.com/wp-content/uploads/2022/11/Creme-Brulee-6.jpg" alt="photo of creme brulée" className="imageUpdates"/>
+      );
 }
 
 export default function RecipeDisplay () {
